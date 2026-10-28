@@ -5,13 +5,12 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/COMPUTER_SCIENCE-VIT_PUNE-800020?style=for-the-badge&labelColor=151515" alt="Computer Science at VIT Pune"/>
-  <img src="https://img.shields.io/badge/OPEN_SOURCE-GSoC_2027- D4AF37?style=for-the-badge&labelColor=151515" alt="Open source and GSoC 2027"/>
 </p>
 
 Hey, I'm **Tamanna Shaikh**! 👋
 
 🎓 Second-year Computer Science Engineering student at VIT Pune  
-💻 Aspiring Software Engineer | Open Source Contributor | Future Entrepreneur
+💻Loves tech | Open Source Contributor | Building in public
 
 I'm passionate about building technology that solves real-world problems. I enjoy exploring software development, AI/ML, and innovative ideas that turn into meaningful projects.
 
